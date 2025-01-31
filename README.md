@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glerique
 - 👀 I’m interested in PHP and Symfony  
-- 🌱 I’m currently learning Symfony 
+- 🌱 I’m currently learning Symfony UX
 
 <!---
 glerique/glerique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
