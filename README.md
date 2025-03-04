@@ -20,8 +20,12 @@
 
 ---
 
+Gone but not forgotten... 👀
+
 ## 🕯️ A Tribute to the Fallen Heroes  
-I’d like to take a moment to honor the fallen soldiers who once served me well... 🫡  
+Let’s take a moment to remember the brave ones who once shaped the web... 🫡  
+
+> "They may be gone, but their legacy lives on in our codebases." 
 
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -30,15 +34,6 @@ I’d like to take a moment to honor the fallen soldiers who once served me well
 ![Adobe Flash](https://img.shields.io/badge/Adobe%20Flash-E34F26?style=for-the-badge&logo=adobe&logoColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-35A700?style=for-the-badge&logo=adobe&logoColor=white)
 
-Gone but not forgotten... 👀
-
-## 🕯️ A Tribute to the Fallen Heroes  
-Let’s take a moment to remember the brave ones who once shaped the web... 🫡  
-
-> "They may be gone, but their legacy lives on in our codebases." 
-
-
-![Still Standing](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=glerique&show_icons=true&theme=tokyonight)
