@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @glerique
-- 👀 I’m interested in PHP and Symfony  
-- 🌱 I’m currently learning Symfony UX
-<hr />
+# 👋 Welcome to My Dev World!
+
+- 👋 Hi, I’m @glerique, a passionate **PHP & Symfony developer**  
+- 🚀 Coding since **2004** and still rocking with my favorite blue elephant! 🐘  
+- 🌱 Currently diving into **Symfony UX**  
+
+
 <p>I started PHP back in 2004, and even back then, people kept telling me it had no future, that it was doomed to die ! </p>
 <p>Well, here I am, over 20 years later, still happily coding with my favorite blue elephant.</p> 
 <p>Guess who's still standing ?</p>
@@ -29,11 +32,21 @@ I’d like to take a moment to honor the fallen soldiers who once served me well
 
 Gone but not forgotten... 👀
 
+## 🕯️ A Tribute to the Fallen Heroes  
+Let’s take a moment to remember the brave ones who once shaped the web... 🫡  
+
+> "They may be gone, but their legacy lives on in our codebases." 
+
+
+![Still Standing](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=glerique&show_icons=true&theme=tokyonight)
 <!---
 glerique/glerique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Codewars Badge](https://www.codewars.com/users/glerique/badges/small)](https://www.codewars.com/users/glerique)
+
 
 
