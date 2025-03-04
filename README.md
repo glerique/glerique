@@ -19,19 +19,19 @@ Well, here I am, over **20 years later**, still happily coding with my favorite 
 
 ## 🐘 My Tech Stack
 
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-- ![Symfony UX](https://img.shields.io/badge/Symfony%20UX-000000?style=for-the-badge&logo=symfony&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br />
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)<br />
+![Symfony UX](https://img.shields.io/badge/Symfony%20UX-000000?style=for-the-badge&logo=symfony&logoColor=white)<br />
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)<br />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br />
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)<br />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 💻 Languages & Frameworks I'm Exploring
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br />
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
@@ -41,12 +41,12 @@ Let’s take a moment to remember the brave ones who once shaped the web... 🫡
 
 Gone but not forgotten ... 👀
 
-- ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
-- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-- ![Joomla](https://img.shields.io/badge/Joomla-F44321?style=for-the-badge&logo=joomla&logoColor=white)
-- ![SPIP](https://img.shields.io/badge/SPIP-6E6E6E?style=for-the-badge&logo=spip&logoColor=white)
-- ![Adobe Flash](https://img.shields.io/badge/Adobe%20Flash-E34F26?style=for-the-badge&logo=adobe&logoColor=white)
-- ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-35A700?style=for-the-badge&logo=adobe&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)<br />
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)<br />
+![Joomla](https://img.shields.io/badge/Joomla-F44321?style=for-the-badge&logo=joomla&logoColor=white)<br />
+![SPIP](https://img.shields.io/badge/SPIP-6E6E6E?style=for-the-badge&logo=spip&logoColor=white)<br />
+![Adobe Flash](https://img.shields.io/badge/Adobe%20Flash-E34F26?style=for-the-badge&logo=adobe&logoColor=white)<br />
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-35A700?style=for-the-badge&logo=adobe&logoColor=white)<br />
 
 ---
 
