@@ -19,27 +19,24 @@
 
 ## 🐘 My Tech Stack
 
-<p align="center">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Symfony2.svg" alt="Symfony" width="70"/>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="WordPress" width="70"/>
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
 ## 🕯️ A Tribute to the Fallen Heroes  
 I’d like to take a moment to honor the fallen soldiers who once served me well... 🫡  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" alt="jQuery" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Joomla_logo.png" alt="Joomla" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/CakePHP_logo.svg/1280px-CakePHP_logo.svg.png" alt="CakePHP" width="70"/>
-  <img src="https://www.spip.net/local/cache-vignettes/L150xH54/logo-spip-2022-c1d51.svg" alt="SPIP" width="100"/>
-</p>
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-F44321?style=for-the-badge&logo=joomla&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
+![SPIP](https://img.shields.io/badge/SPIP-6E6E6E?style=for-the-badge&logo=spip&logoColor=white)
 
 Gone but not forgotten... 👀
+
 <!---
 glerique/glerique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
