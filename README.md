@@ -4,7 +4,7 @@
 - 🚀 Coding since **2004** and still rocking with my favorite language ! 🐘
 - 🌱 Currently diving into **Symfony UX**  
 - 🦸‍♂️ **Member of AFUP (🇫🇷 Association Française des Utilisateurs de PHP 🇫🇷)**
-- 
+  
 
 ## 🐘 My Tech Stack
 
