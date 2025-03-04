@@ -5,7 +5,6 @@
 - 🌱 Currently diving into **Symfony UX**  
 - 🦸‍♂️ **Member of AFUP (Association Française des Utilisateurs de PHP)**  
 
----
 
 ## 📝 About Me
 
@@ -14,8 +13,6 @@ Well, here I am, over **20 years later**, still happily coding with my favorite 
 
 ![PHP's Not Dead](https://image.spreadshirtmedia.net/image-server/v1/compositions/T635A306PA7544PT17X191Y60D341863959W6717H6726CxFFFFFF%3AxE61779%3Ax1C2343/views/1,width=500,height=500,appearanceId=306,backgroundColor=ffffff/phps-not-dead-t-shirt-bio-crafter-stanley-stella-unisexe.jpg)
 
-
----
 
 ## 🐘 My Tech Stack
 
@@ -27,7 +24,6 @@ Well, here I am, over **20 years later**, still happily coding with my favorite 
 ![Symfony UX](https://img.shields.io/badge/Symfony%20UX-000000?style=for-the-badge&logo=symfony&logoColor=white)<br />
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
----
 
 ## 🌍 Languages, Frameworks & CMS I'm Exploring
 
@@ -35,7 +31,6 @@ Well, here I am, over **20 years later**, still happily coding with my favorite 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<br />
 ![Drupal](https://img.shields.io/badge/Drupal-0077B5?style=for-the-badge&logo=drupal&logoColor=white)<br />
 
----
 
 ## 🕯️ A Tribute to the Fallen Heroes  
 Let’s take a moment to remember the brave ones who once shaped the web...   
@@ -48,13 +43,10 @@ Let’s take a moment to remember the brave ones who once shaped the web...
 
 Gone but not forgotten ... 🫡
 
----
 
 ## 📊 My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=glerique&show_icons=true&theme=tokyonight)
-
----
 
 <!---
 glerique/glerique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
