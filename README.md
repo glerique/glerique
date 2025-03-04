@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @glerique, a passionate **PHP & Symfony developer**  
 - 🚀 Coding since **2004** and still rocking with my favorite language ! 🐘
-- 💻 Developed procedural PHP apps for a municipality before diving into OOP and frameworks in 2015
+- 💻 Developed procedural PHP apps for a municipality before diving into OOP and frameworks **in 2015**
 - 🌱 Currently diving into **Symfony UX**  
 - 🦸‍♂️ **Member of AFUP (🇫🇷 Association Française des Utilisateurs de PHP 🇫🇷)**
   
