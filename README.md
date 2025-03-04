@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @glerique, a passionate **PHP & Symfony developer**  
 - 🚀 Coding since **2004** and still rocking with my favorite blue elephant ! 🐘
 - 💻 Developed procedural PHP apps for a municipality before diving into OOP and frameworks **in 2015**
-- 🌱 Currently diving into **Symfony UX**  
+- 🌱 Currently diving into **Symfony UX**
+- 💙 Volunteer web developer for **Agorafolk.fr**, a social network for people dealing with anxiety and agoraphobia  
 - 🦸‍♂️ **Member of AFUP (🇫🇷 Association Française des Utilisateurs de PHP 🇫🇷)**
   
 
