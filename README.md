@@ -37,9 +37,7 @@ Well, here I am, over **20 years later**, still happily coding with my favorite 
 ---
 
 ## 🕯️ A Tribute to the Fallen Heroes  
-Let’s take a moment to remember the brave ones who once shaped the web... 🫡  
-
-Gone but not forgotten ... 👀
+Let’s take a moment to remember the brave ones who once shaped the web...   
 
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)<br />
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)<br />
@@ -47,6 +45,8 @@ Gone but not forgotten ... 👀
 ![SPIP](https://img.shields.io/badge/SPIP-6E6E6E?style=for-the-badge&logo=spip&logoColor=white)<br />
 ![Adobe Flash](https://img.shields.io/badge/Adobe%20Flash-E34F26?style=for-the-badge&logo=adobe&logoColor=white)<br />
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-35A700?style=for-the-badge&logo=adobe&logoColor=white)<br />
+
+Gone but not forgotten ... 🫡
 
 ---
 
