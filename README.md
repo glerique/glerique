@@ -5,15 +5,6 @@
 - 🌱 Currently diving into **Symfony UX**  
 - 🦸‍♂️ **Member of AFUP (🇫🇷 Association Française des Utilisateurs de PHP 🇫🇷)**  
 
-
-## 📝 About Me
-
-I started PHP back in **2004**, and even back then, people kept telling me it had no future, that it was doomed to die!  
-Well, here I am, over **20 years later**, still happily coding with my favorite **blue elephant**.  
-
-![PHP's Not Dead](https://image.spreadshirtmedia.net/image-server/v1/compositions/T635A306PA7544PT17X191Y60D341863959W6717H6726CxFFFFFF%3AxE61779%3Ax1C2343/views/1,width=500,height=500,appearanceId=306,backgroundColor=ffffff/phps-not-dead-t-shirt-bio-crafter-stanley-stella-unisexe.jpg)
-
-
 ## 🐘 My Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br />
