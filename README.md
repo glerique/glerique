@@ -27,7 +27,7 @@
 
 
 ## 🕯️ A Tribute to the Fallen Heroes  
-Let’s take a moment to remember the brave ones who once shaped the web...   
+Let’s take a moment to remember the brave ones who once shaped the web, including those I had the chance to work with and who greatly helped me.   
 
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
