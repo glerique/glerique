@@ -21,8 +21,8 @@
 
 ## 🌍 Languages, Frameworks & CMS I'm Exploring
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Drupal](https://img.shields.io/badge/Drupal-0077B5?style=for-the-badge&logo=drupal&logoColor=white)
 
 
