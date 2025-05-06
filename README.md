@@ -21,9 +21,10 @@
 
 ## 🌍 Languages, Frameworks & CMS I'm Exploring
 
+![Drupal](https://img.shields.io/badge/Drupal-0077B5?style=for-the-badge&logo=drupal&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Drupal](https://img.shields.io/badge/Drupal-0077B5?style=for-the-badge&logo=drupal&logoColor=white)
 
 
 ## 🕯️ A Tribute to the Fallen Heroes  
