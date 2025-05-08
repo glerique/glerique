@@ -49,7 +49,10 @@
 - **Clean Code and SOLID Principles:**
   - Developing modular, maintainable, and scalable code
   - Avoiding code duplication and ensuring high readability
-  - Proper exception handling and emphasis on performance and security## 🕯️ A Tribute to the Fallen Heroes  
+  - Proper exception handling and emphasis on performance and security
+
+
+## 🕯️ A Tribute to the Fallen Heroes  
 Let’s take a moment to remember the brave ones who once shaped the web, including those I had the chance to work with and who greatly helped me.   
 
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
