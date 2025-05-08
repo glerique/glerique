@@ -28,7 +28,28 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## 🕯️ A Tribute to the Fallen Heroes  
+## 🛠️ Skills and Methodologies
+
+- **Version Control and Collaboration:**
+  - **Git** and **GitHub** (branching strategies, pull requests, Angular Commit convention)
+  - Agile methodologies advocate (**Scrum**, **Kanban**)
+
+- **Testing and Quality Assurance:**
+  - Writing unit and functional tests with **PHPUnit**
+  - Clean Code principles with adherence to **SOLID** , **KISS** and **DRY**
+
+- **Design and Modeling:**
+  - Proficient in **UML** diagrams (class, sequence, use case)
+  - Database modeling with **Merise** approach (Tardieu)
+
+- **Performance and Automation:**
+  - Setting up **CI/CD** pipelines with GitHub Actions
+  - Containerization with **Docker** for reproducible environments
+
+- **Clean Code and SOLID Principles:**
+  - Developing modular, maintainable, and scalable code
+  - Avoiding code duplication and ensuring high readability
+  - Proper exception handling and emphasis on performance and security## 🕯️ A Tribute to the Fallen Heroes  
 Let’s take a moment to remember the brave ones who once shaped the web, including those I had the chance to work with and who greatly helped me.   
 
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
